@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address to the magistrates, clergy, and learned gentlemen of the city of Dublin Or, A rational and expeditious method of teaching the English, Latin and Greek tongues, discovered.</title>
+            <author>Aickin, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75980</idno>
+            <idno type="STC">Wing A798</idno>
+            <idno type="STC">ESTC R229438</idno>
+            <idno type="EEBO-CITATION">99895269</idno>
+            <idno type="PROQUEST">99895269</idno>
+            <idno type="VID">152535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152535)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2301:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An address to the magistrates, clergy, and learned gentlemen of the city of Dublin Or, A rational and expeditious method of teaching the English, Latin and Greek tongues, discovered.</title>
+                  <author>Aickin, Joseph.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Joseph Ray, and are to be sold at his shop in Skinner Row, over-against the Tholsel,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Your most devoted and humble servant, Joseph Aickin.</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Greek language --  Study and teaching --  Early works to 1800.</term>
+               <term>Latin language --  Study and teaching --  Early works to 1800.</term>
+               <term>English language --  Study and teaching --  Early works to 1800.</term>
+               <term>Teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152535:1"/>
+            <pb facs="tcp:152535:1"/>
+            <p>AN ADDRESS TO THE Magiſtrates, Clergy, and Learned Gentlemen Of the CITY of DUBLIN. OR, A Rational and Expeditious Method Of TEACHING the ENGLISH, LATIN AND GREEK TONGUES, Diſcovered.</p>
+            <p>
+               <hi>DUBLIN:</hi> Printed by <hi>Joſeph Ray,</hi> and are to be Sold at his Shop in <hi>Skin<g ref="char:EOLhyphen"/>ner Row,</hi> over-againſt the <hi>Tholſel.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb facs="tcp:152535:2"/>
+            <pb n="3" facs="tcp:152535:2"/>
+            <head>An ADDRESS to the Magiſtrates, Clergie, and Learned Gentlemen of the City of <hi>DUBLIN,</hi> &amp;c.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>I Publiſhed lately an Advertiſement of an <hi>Engliſh, Latin</hi> and <hi>Greek School;</hi> and therein I undertake, upon very Reaſon<g ref="char:EOLhyphen"/>able Terms, to teach the <hi>Engliſh, Latin</hi> and <hi>Greek Tongues,</hi> after a more <hi>Eaſie, Expeditious</hi> and <hi>Rational Method,</hi> than has been hitherto practiſed; but finding that it does not ſucceed ac<g ref="char:EOLhyphen"/>cording to my Expectation, I thought fit to diſcover to the World, that <hi>I am Able to Perform, what I have therein Underta<g ref="char:EOLhyphen"/>ken:</hi> And ſince I cannot be ſo happy as to reap ſome <hi>Benefit</hi> by what I have with many years Toil and Travel found out, let me at leaſt have the <hi>Satisfaction</hi> of <hi>Diſcovering it to my Native Coun<g ref="char:EOLhyphen"/>trey;</hi> ſome more Ingenious Perſon may perhaps Improve it to greater Advantage for the Publick Good.</p>
+            <p>My Method of Teaching the Tongues, is this. 1. I Teach my Scholars the Engliſh Tongue <hi>Grammatically,</hi> according to the <hi>Engliſh Grammar</hi> which I Printed at <hi>London</hi> in 1692. and do inſtil all Grammatical Rules, Terms and Notions into Boys in their <hi>Mother Tongue,</hi> which they comprehend the better, becauſe they are deliver'd in a <hi>Known Tongue.</hi> When Boys underſtand the Eng<g ref="char:EOLhyphen"/>liſh Parts of Speech, their Numbers, Caſes, Articles, Genders and Declenſions; the Conjugations, their Moods, Tenſes and Perſons; the Concords and Regimens in Syntax; the Accents, Names of Verſes, and Meaſures in Proſody; the moſt <hi>Tedious</hi> and <hi>Difficult</hi> part of Grammar is over, before ever they enter in<g ref="char:EOLhyphen"/>to Latin. Then I teach them to make <hi>Engliſh Theams</hi> and <hi>Ver<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and put ſome <hi>Engliſh Authors</hi> of the <hi>Pureſt Stile,</hi> into their hands. A Boy thus qualify'd, is fit for learning any Foreign Tongue, and not till then. The forming of Boys at the <hi>Gram<g ref="char:EOLhyphen"/>mar-School,</hi> either <hi>makes</hi> or <hi>marrs</hi> them for ever. The <hi>firſt Impreſ<g ref="char:EOLhyphen"/>ſions</hi>
+               <pb n="4" facs="tcp:152535:3"/>ſtick <hi>faſteſt,</hi> and therefore ought to be made with the <hi>great<g ref="char:EOLhyphen"/>eſt Skill.</hi>
+            </p>
+            <p n="2">2. When I enter a Boy into <hi>Latin</hi> or <hi>Greek,</hi> I do not Teach him the General Rules of Grammar over again, but make thoſe Rules that are <hi>Peculiar</hi> to <hi>each Tongue,</hi> as <hi>Exceptions</hi> to the <hi>Eng<g ref="char:EOLhyphen"/>liſh Grammatical Rules.</hi> The Conſtitution of all Tongues, as to the General Rules of Grammar, are the ſame, and do only dif<g ref="char:EOLhyphen"/>fer in a few things, <hi>viz.</hi> the <hi>Engliſh</hi> and <hi>Latin Tongues</hi> have <hi>Two Numbers;</hi> the <hi>Greek, Three;</hi> the <hi>Engliſh</hi> and <hi>Latin</hi> have <hi>Six Ca<g ref="char:EOLhyphen"/>ſes,</hi> the <hi>Greek</hi> but <hi>Five;</hi> the <hi>Engliſh Tongue</hi> hath but <hi>One Declen<g ref="char:EOLhyphen"/>ſion,</hi> the <hi>Latin Five,</hi> and the <hi>Greek Ten;</hi> the <hi>Engliſh</hi> hath but <hi>Two Conjugations,</hi> the <hi>Latin Four,</hi> and the <hi>Greek Thirteen,</hi> &amp;c. Now to make <hi>Three</hi> compleat Grammars, when <hi>One</hi> may ſuffice, is la<g ref="char:EOLhyphen"/>bour in vain. To repeat the ſame thing over and over, is to bur<g ref="char:EOLhyphen"/>then the <hi>Memory</hi> and <hi>Underſtanding.</hi> What Aſſinity the <hi>Latin</hi> and <hi>Greek Tongues.</hi> have with the <hi>Engliſh,</hi> may appear by my <hi>Engliſh Grammar,</hi> a competent Number whereof are daily expect<g ref="char:EOLhyphen"/>ed from <hi>London.</hi> When an <hi>Engliſh Scholar</hi> is ſent to a <hi>Latin School,</hi> generally he is to be taught to <hi>Read</hi> and <hi>Spell</hi> better, which is a great and improper Task for a <hi>Latin</hi> Schoolmaſter, as Schooling is now: But <hi>my Method</hi> does not only ſave him <hi>this Labour,</hi> but the moſt laborious part of the <hi>Scholar's Education,</hi> viz. The fre<g ref="char:EOLhyphen"/>quent inculcation of <hi>Grammatical Rules, Terms,</hi> and <hi>Notions.</hi> As the learning of <hi>Latin</hi> has been hitherto a help to Boys for attain<g ref="char:EOLhyphen"/>ing the <hi>Engliſh. Tongue,</hi> this Method will be a great help to them for attaining the <hi>Latin</hi> and <hi>Greek Tongues;</hi> ſo that by this means, Boys may attain theſe <hi>Tongues</hi> in half the time that is uſually ſpent in them. Beſides, No Boy can turn <hi>Engliſh</hi> into <hi>Latin,</hi> or <hi>Latin</hi> into true and proper <hi>Engliſh,</hi> unleſs he has learned the Engliſh Tongue <hi>Grammatically:</hi> There are many <hi>Idioms</hi> in eve<g ref="char:EOLhyphen"/>ry <hi>Tongue,</hi> that cannot be rightly tranſlated without this Know<g ref="char:EOLhyphen"/>ledge. In this I have the concurring Opinions of the greateſt Orators and Poets of the Age. The moſt Tranſlations extant are convincing Inſtances of this Defect: The Tranſlators for the moſt part following the <hi>Idiom</hi> of the <hi>Tongue</hi> from whence they tranſlated them. Thus I think I have ſufficiently evinced the Advantages and Neceſſity of Teaching the <hi>Engliſh Tongue Grammatically:</hi> The defect of which, may be reckoned the <hi>firſt
+<pb n="5" facs="tcp:152535:3"/>Great Error</hi> in the <hi>Vulgar Method</hi> of <hi>Educating Youth.</hi> The <hi>Eng<g ref="char:EOLhyphen"/>liſh Tongue</hi> may be improv'd to all the Advantages that have made the <hi>Latin</hi> and <hi>Greek Tongues</hi> ſo famous, were Terms proper for all Arts and Sciences invented; which a too fond Admiration of <hi>Foreign Tongues,</hi> does hinder. For my part, I cannot perceive wherein our <hi>Engliſh Oratory</hi> and <hi>Poetry</hi> are Inferiour to the <hi>Greek</hi> and <hi>Latin:</hi> The <hi>Engliſh Tongue</hi> is Copious enough, and may be Improved.</p>
+            <p>
+               <hi>Gentlemen,</hi> I muſt likewiſe beg leave to offer my Opinion as touching the <hi>Vulgar Methods</hi> of Teaching the <hi>Latin</hi> and <hi>Greek Tongues;</hi> and the firſt Error I find, is the Teaching of <hi>ſeveral</hi> Grammars: This variety of <hi>Grammars</hi> breeds not only a great Confuſion in <hi>Schooling,</hi> but is a great loſs to thoſe Boys who leave a School before they be perfect in the Grammar <hi>Taught</hi> there: This makes <hi>Teaching</hi> and <hi>Learning</hi> an <hi>Herculean Labour;</hi> whilſt the <hi>New Maſter</hi> is forc'd to <hi>re-teach,</hi> and the <hi>New Scholar</hi> to <hi>re-learn</hi> another <hi>Grammar.</hi> There ought therefore to be <hi>One Grammar</hi> Eſtabliſh'd as the <hi>Standard of Education,</hi> or None at all. The Uſe of <hi>Grammar</hi> was firſt occaſion'd by the <hi>Ignorance</hi> of <hi>Schoolmaſters,</hi> and is ſtill continued by their <hi>Lazineſs:</hi> There are no <hi>Grammars</hi> extant abſolutely perfect; nay, ſome have great Errors in them. I have known that <hi>different Grammars</hi> have been taught in <hi>the ſame School;</hi> one Parent is for <hi>Lilly,</hi> another for <hi>Deſ<g ref="char:EOLhyphen"/>pauter,</hi> a third for <hi>Alvarez,</hi> &amp;c. He that is not able to compoſe a <hi>Grammar,</hi> is not fit to <hi>Teach a School?</hi> Such Fellows are <hi>Pick-Pockets</hi> and <hi>Quacks,</hi> and the <hi>Ruine of Children.</hi> Every School<g ref="char:EOLhyphen"/>maſter ought to compoſe a <hi>Compend</hi> of all neceſſary Grammati<g ref="char:EOLhyphen"/>cal Rules.</p>
+            <p n="2">2. The Second Error I find in the common way of Teaching, is, <hi>The Teaching of Latin in Latin Rules:</hi> This is as great Non<g ref="char:EOLhyphen"/>ſenſe as the Teaching of Hebrew in Hebrew Rules: How much <hi>Labour</hi> and <hi>Time</hi> are loſt in this, is evident to you all: Both which are ſaved by my Method. All Grammatical Rules ought to be in <hi>Engliſh;</hi> at leaſt till Boys are Maſters of Oratory. The bare mentioning of this Error, is ſufficient to expoſe it.</p>
+            <p n="3">3. <hi>To put Boys into Authors before they can make Congruous Latin or Greek,</hi> is the greateſt Error of all. When a Boy begins <hi>Syn<g ref="char:EOLhyphen"/>tax,</hi> he ſhould have Sentences given him to turn into <hi>Latin,</hi> ac<g ref="char:EOLhyphen"/>cording
+<pb n="6" facs="tcp:152535:4"/>to the Syntactical Rules that he learns, and ought not to leave that Rule, till he can make <hi>Latin</hi> perfectly according to it. To make Boys go through the whole Rules of <hi>Syntax,</hi> be<g ref="char:EOLhyphen"/>fore they begin to make <hi>Latin,</hi> is a great Conſumption of Time, for one Rule drives the other out of their heads. Beſides, <hi>Boys</hi> ought to make congruous and ornate <hi>Latin,</hi> before ever they be<g ref="char:EOLhyphen"/>gin any Author: <hi>Janua Linguarum</hi> and <hi>Commenii Orbis Pictus,</hi> will do better than any Author; and yet I don't think them fit to be put into a <hi>Boys</hi> hands, till he can make congruous <hi>Latin.</hi> The omiſſion of this Daily Exerciſe, is chiefly to be imputed to the <hi>Lazineſs</hi> of <hi>Schoolmaſters:</hi> Were <hi>Boys</hi> daily kept to this Exer<g ref="char:EOLhyphen"/>ciſe, it would ſave them the Neceſſity of Reading ſuch fooliſh ſtuff as is contained in moſt of the uſual Authors.</p>
+            <p n="4">4. <hi>To teach Boys Poetical Authors, before they be Maſters of Ora<g ref="char:EOLhyphen"/>tory,</hi> is a great Error: For the Genius of <hi>Oratory</hi> and <hi>Poetry,</hi> are vaſtly diſterent; witneſs the Prince of Orators hobling Verſe: <q>O Fortunatam natam me conſule Romam!</q> I have known <hi>Cato, Qui mihi, Ovid</hi>'s Epiſtles, and his <hi>Triſtia,</hi> taught before ever they had learned <hi>Syntax:</hi> So that the Vul<g ref="char:EOLhyphen"/>gar way of Teaching the <hi>Tongues,</hi> ſeems rather to be calculated to retard, than to further the <hi>Boys</hi> attaining of the <hi>Tongues.</hi>
+            </p>
+            <p n="5">5. <hi>To teach Boys ſo many Claſſick Authors of different Stiles, is a great Diſadvantage to them, becauſe it hinders them from Imita<g ref="char:EOLhyphen"/>ting or Acquiring a Good Stile. Terence</hi> and <hi>Eraſmus, Seneca</hi> and <hi>Cicero,</hi> are oppoſite Stiles: Now to teach ſo many Authors of <hi>different Stiles,</hi> muſt either be to furniſh them with a ſufficient ſtore of words, which may be more eaſily done by <hi>Nomencla<g ref="char:EOLhyphen"/>tures,</hi> where the <hi>Noun</hi> may be found in his <hi>Nominative Caſe,</hi> and the <hi>Verb</hi> in his <hi>Preſent Tenſe,</hi> without putting <hi>Boys</hi> to the trou<g ref="char:EOLhyphen"/>ble of turning over to the <hi>Declenſions</hi> and <hi>Conjugations</hi> every foot; or elſe, to ſupply them with the ſeveral Forms of expreſſing the ſame things: But this may be more eaſily done by <hi>Wincheſter Phraſes,</hi> and other Books compoſed on purpoſe: Or laſtly, The end of teaching ſo many Authors, muſt be to inſtil the Author's Wit and Learning into <hi>Boys;</hi> but Wit and Learning are not to be pick'd out of the <hi>Claſſick Authors</hi> by <hi>School-Boys:</hi> We find in
+<pb n="7" facs="tcp:152535:4"/>moſt of the School-Authors a great deal of <hi>Atheiſm, Prophaneſs,</hi> and <hi>down-right Lies, Falſe Principles</hi> of <hi>Philoſophy</hi> and <hi>Morality.</hi> The Reading of ſuch <hi>Poetical Fictions</hi> is the Ruine of many a Youth. Are <hi>Ovid</hi>'s obſcene Lines to be introduc'd into a <hi>Chri<g ref="char:EOLhyphen"/>ſtian School,</hi> for which he was Baniſhed a Heathen Empire? Wit, Philoſophy, and Morality, are not to be learned at the Gram<g ref="char:EOLhyphen"/>mar-School. Beſides, the Principles of Philoſophy are diffe<g ref="char:EOLhyphen"/>rent from what they were, when the <hi>Claſſick Authors</hi> flouriſhed; nay, Morality it ſelf is Refined ſince. If <hi>Boys</hi> muſt be taught <hi>Wit, Philoſophy,</hi> and <hi>Morality,</hi> at the <hi>Grammar-School,</hi> let them be given to them in their <hi>Verſions;</hi> for upon my word they are not to be found in moſt <hi>Claſſick Authors.</hi> It is not good to pre<g ref="char:EOLhyphen"/>poſſeſs <hi>Boys</hi> with <hi>Falſe Principles;</hi> Prejudice of Education is a great hinderance to the Diſcovery of Truth. It were better to leave them to the Inſtruction of a Learned Tutor, where every Truth may be taught under a Proper and Methodical Head, and in its due place. Theſe very Practices are the Bane of Youth, and a means to make them Eternal <hi>Blockheads.</hi> Some few Men indeed retrieve thoſe Diſadvantages and Prejudices of <hi>Education.</hi> Beſides, what ſignifie thoſe Bits and Scraps of Wit that are pick'd out of Satyr? Is it fit that <hi>Boys</hi> ſhould be kept Eight or Nine years in peruſing ſuch? <hi>Si Populus vult de<g ref="char:EOLhyphen"/>cipi, decipiatur:</hi> If People will be led by the Noſe, who can help it? The due peruſal of one <hi>Orator's,</hi> and of one <hi>Poet's Works,</hi> will be of more Uſe, than a hotch-potch of all the <hi>Claſſick Au<g ref="char:EOLhyphen"/>thors.</hi> To judge of a <hi>Boy</hi>'s Proficiency in the <hi>Tongues,</hi> by his Skill in <hi>Claſſick Authors,</hi> is idle; if he can ſpeak good <hi>Latin,</hi> and write elegant <hi>Latin</hi> and <hi>Greek,</hi> it is not a Farthing matter whe<g ref="char:EOLhyphen"/>ther he has read them all, or not. It is the Misfortune of Mankind, that all <hi>Learning</hi> has been ſo long wrapt up in <hi>Foreign Languages.</hi> For my part, I admire ſome of the <hi>Claſſick Authors</hi> as much as any Man, but they muſt be read <hi>cum grano Salis.</hi> When a Youth is Maſter of <hi>Oratory</hi> and <hi>Poetry,</hi> then in<g ref="char:EOLhyphen"/>deed he may be permitted to read all the <hi>Claſſick Authors.</hi> But to ſpend the prime of Youth in them, when it is evident we get nothing by them but the knowledge of the Tongues, is a great loſs of Time, which might be better employ'd in the ſtudy of more profitable Learning.</p>
+            <pb n="8" facs="tcp:152535:5"/>
+            <p>Now, <hi>Gentlemen,</hi> I have gone through the <hi>Vulgar Errors</hi> in <hi>Educating of Youth</hi> in the Knowledge of the <hi>Tongues:</hi> I ſhall only mention two or three Advantages more of my Method of Teaching. 1. It will ſave Maſters a great deal of <hi>Pains</hi> in <hi>Teach<g ref="char:EOLhyphen"/>ing,</hi> and Boys a great deal of <hi>Pains</hi> and <hi>Time</hi> in <hi>Learning</hi> the <hi>Tongues.</hi> 2. It will be of great Advantage for thoſe who are not deſigned for the Univerſity, or are deſigned for Trades; for hereby the meer <hi>Engliſh Scholar</hi> is qualified for the ſtudy of <hi>Phi<g ref="char:EOLhyphen"/>loſophy, Divinity,</hi> and the <hi>Mathematicks,</hi> and of all other <hi>Arts</hi> and <hi>Sciences,</hi> which are now extant in the <hi>Engliſh Tongue.</hi> 3. It will be of great Advantage to the Native <hi>Iriſh,</hi> and all <hi>Foreigners,</hi> who may hereby learn to pronounce and ſpeak <hi>Engliſh</hi> like Na<g ref="char:EOLhyphen"/>tive <hi>Engliſhmen;</hi> which they could not attain to before, by the defect of an <hi>Engliſh Grammar.</hi> Every Schoolmaſter will com<g ref="char:EOLhyphen"/>plain of the defect of good Methods, but none venture to re<g ref="char:EOLhyphen"/>medy the Evil: I have freely thrown my Mite into the <hi>Corban,</hi> and if I have not hit the Mark, yet I have led the way for a more Ingenious Pen to compleat it.</p>
+            <p>
+               <hi>Gentlemen,</hi> I have not Publiſhed this Paper to undermine any other School-maſter: I only deſire that a competent Number of Gentlemens Sons may be committed to my Tuition, that have not been fixt at a <hi>Latin School</hi> for any time; for if they have, they are not fit for my Method. I taught many Noblemen and Perſons of Quality's Children at <hi>London,</hi> and at length taught <hi>None but Such;</hi> the Truth whereof is known to ſome Perſons of Eminent Quality in <hi>Dublin:</hi> And now to ſit idle in an Empty School, and in my <hi>Native Country</hi> too, ſeems very uncouth. However, I hope this ſmall <hi>Eſſay</hi> cannot be taken amiſs, being writ for the Publick Good: And ſo I am in all humility,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 15. 1698.</date> 
+                  <hi>From my School at Mr.</hi> Fox's <hi>on</hi> New Key, <hi>near the</hi> Indian Queen, <hi>Ad<g ref="char:EOLhyphen"/>joyning to</hi> Eſſex-<hi>Bridge</hi> Dublin.</dateline>
+               <signed>Your moſt Devoted and Humble Servant, <hi>JOSEPH AICKIN.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
